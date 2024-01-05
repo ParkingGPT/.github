@@ -1,7 +1,3 @@
-<div align="center">
-   <img width="160" src="https://github.com/ParkingGPT/.github/blob/main/icon.png" alt="logo"></br></br>
-</div>
-
 # ParkinGPT
 A GPT-drived interactive app for greener, safer, and smarter parking.
 
