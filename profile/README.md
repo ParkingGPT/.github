@@ -1,29 +1,13 @@
 <div align="center">
-   <img width="160" src="icon.png" alt="logo"></br></br>
+   <img width="160" src="../icon.png" alt="logo"></br></br>
 </div>
 
 # ParkinGPT
 A GPT-drived interactive app for greener, safer, and smarter parking.
-<style>
-.iframe-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%;
-    overflow: hidden;
-}
 
-.iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-Demo:
-<div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZF9auAxpJso?si=X6rCz5OlrDzYm5W9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+Demo Video (via Youtube):
+
+[![Demo Video](http://img.youtube.com/vi/ZF9auAxpJso/0.jpg)](http://www.youtube.com/watch?v=ZF9auAxpJso "ParkinGPT")
 
 ## Inspiration
 
