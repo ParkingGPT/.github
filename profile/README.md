@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="160" src="../icon.png" alt="logo"></br></br>
+   <img width="160" src="https://github.com/ParkingGPT/.github/blob/main/icon.png" alt="logo"></br></br>
 </div>
 
 # ParkinGPT
